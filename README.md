@@ -16,8 +16,5 @@ The Sex Offender Registry System is a PHP-based web application designed to mana
 - **Database**: MySQL
 - **Version Control**: Git and GitHub
 
-## Setup and Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
+
 
